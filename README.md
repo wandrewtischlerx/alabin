@@ -1,5 +1,5 @@
 
-<img src="https://github.com/wandrewtischlerx/alabin/blob/main/Aladdin.PNG?raw=true" alt="Alabin v1.0">
+<img src="" alt="Alabin v1.0">
 
 <h1>Alabin v1.0</h1>
 
